@@ -27,9 +27,9 @@ type Props = {
 };
 
 
-export default async function Detail({ params: { id } }: Props) {
+export default async function Detail({ params }: Props) {
 
-    const quartosResultado:QuartosResultsProps[] = await getDetail(id)
+    const quartosResultado:QuartosResultsProps[] = await getDetail(params.id)
     console.log(quartosResultado)
 
     return (
