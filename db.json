@@ -1,0 +1,54 @@
+{
+    "quartos": [
+    {
+      "id": "1",
+      "nome": "Suíte Luxo",
+      "descricao": "Suíte ampla, cama king, banheira de hidromassagem, vista panorâmica para a cidade.",
+      "preco": 850,
+      "capacidade": 2,
+      "imagens":  "https://i.imgur.com/vxDVA3v.jpeg",
+      "comodidades": ["Wi-Fi", "Ar-condicionado", "Café da manhã", "Piscina", "Banheira", "Smart TV"],
+      "tipo": "Suite de Luxo"
+    },
+    {
+      "id": "2",
+      "nome": "Suíte Executiva",
+      "descricao": "Perfeita para quem busca conforto e praticidade, com espaço de trabalho e poltrona relax.",
+      "preco": 600,
+      "capacidade": 2,
+      "imagens": "https://i.imgur.com/uITs1dy.jpeg",
+      "comodidades": ["Wi-Fi", "Ar-condicionado", "Café da manhã", "Mesa de trabalho", "Smart TV"],
+      "tipo": "Suite de Executiva"
+    },
+    {
+      "id": "3",
+      "nome": "Quarto Standard",
+      "descricao": "Quarto aconchegante, ideal para viagens rápidas, com excelente custo-benefício.",
+      "preco": 400,
+      "capacidade": 2,
+      "imagens":"https://i.imgur.com/8c5GVI9.jpeg",
+      "comodidades": ["Wi-Fi", "Ar-condicionado", "Café da manhã", "TV"],
+      "tipo": "Quarto Standard"
+    },
+    {
+      "id": "4",
+      "nome": "Suíte Premium Vista Mar",
+      "descricao": "Suíte espaçosa com varanda e vista incrível para o mar, banheira e cama king size.",
+      "preco": 1200,
+      "capacidade": 3,
+      "imagens": "https://i.imgur.com/7eYVblK.jpeg",
+      "comodidades": ["Wi-Fi", "Ar-condicionado", "Café da manhã", "Varanda", "Piscina", "Banheira", "Vista Mar", "Smart TV"],
+      "tipo": "Suíte Premium"
+    },
+    {
+      "id": "5",
+      "nome": "Quarto Família",
+      "descricao": "Espaço perfeito para famílias, com 2 camas de casal, cozinha compacta e sala de estar.",
+      "preco": 950,
+      "capacidade": 4,
+      "imagens": "https://i.imgur.com/ygYgMsH.jpeg",
+      "comodidades": ["Wi-Fi", "Ar-condicionado", "Café da manhã", "Cozinha", "Sala de estar", "TV", "Frigobar"],
+      "tipo": "Quarto Família"
+    }
+  ]
+}
