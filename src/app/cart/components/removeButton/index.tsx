@@ -15,7 +15,7 @@ interface quartoDetailProps {
   preco: number,
   capacidade: number,
   imagens: string,
-  comodidades: [],
+  comodidades: string[],
   tipo: string
 }
 
